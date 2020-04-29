@@ -1,9 +1,10 @@
 # Web Scraping Homework - Mission to Mars
 
-![mission_to_mars](Images/mission_to_mars.png)
-
 
 ## This assignment was to scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+
+
+![mission_to_mars](Images/mission_to_mars.png)
 
 
 ## Step 1 - Scraping
@@ -33,11 +34,9 @@ Complete your initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, an
 * Use Pandas to convert the data to a HTML table string.
 
 
-
 ## Step 6 - Mars Hemispheres
 
 * Visit the USGS Astrogeology site [here](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) to obtain high resolution images for each of Mar's hemispheres.
-
 
 
 ## Step 7 - MongoDB and Flask Application
