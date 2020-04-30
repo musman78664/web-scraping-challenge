@@ -1,7 +1,7 @@
 # Web Scraping Homework - Mission to Mars
 
 
-## This assignment was to scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+* This assignment was to scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
 
 ![mission_to_mars](Images/mission_to_mars.png)
